@@ -2,3 +2,4 @@
 Intro section.
 Usage section.
 FAQ section.
+License section.
