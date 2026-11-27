@@ -1,1 +1,2 @@
 # badge-test
+Intro section.
